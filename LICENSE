@@ -1,0 +1,19 @@
+Copyright (c) 2026 Onority. All rights reserved.
+
+This repository is published as a portfolio showcase. Its source code, designs, brand assets
+(including the Tasty name, logo and visual identity) and documentation are the property of Onority.
+
+You may view this repository on GitHub and fork it on GitHub, only as GitHub's Terms of Service
+allow. No other rights are granted. Without prior written permission from Onority, you may not
+copy, modify, distribute, sublicense, sell, deploy or host this software or any part of it, or use
+its designs or brand assets, for any purpose, commercial or not.
+
+Third-party components keep their own licenses: the open-source libraries installed through npm and
+Maven, the Big Shoulders and Barlow typefaces (SIL Open Font License 1.1) and the placeholder
+photography from Unsplash (Unsplash License).
+
+For permission requests, contact the repository owner through GitHub: https://github.com/firasmr997
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT
+SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF
+OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.

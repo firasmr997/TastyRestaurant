@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Static pages. Replace https://tasty.example with the production domain at deploy time. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://tasty.example/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://tasty.example/fr"/></url>
+  <url><loc>https://tasty.example/menu</loc><xhtml:link rel="alternate" hreflang="fr" href="https://tasty.example/fr/menu"/></url>
+  <url><loc>https://tasty.example/gallery</loc><xhtml:link rel="alternate" hreflang="fr" href="https://tasty.example/fr/gallery"/></url>
+  <url><loc>https://tasty.example/gallery/restaurant</loc><xhtml:link rel="alternate" hreflang="fr" href="https://tasty.example/fr/gallery/restaurant"/></url>
+  <url><loc>https://tasty.example/about</loc><xhtml:link rel="alternate" hreflang="fr" href="https://tasty.example/fr/about"/></url>
+  <url><loc>https://tasty.example/contact</loc><xhtml:link rel="alternate" hreflang="fr" href="https://tasty.example/fr/contact"/></url>
+</urlset>

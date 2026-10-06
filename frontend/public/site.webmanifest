@@ -1,0 +1,14 @@
+{
+  "name": "Tasty",
+  "short_name": "Tasty",
+  "description": "Smash burgers, stacked sandwiches and plates off the grill.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffdf8",
+  "theme_color": "#1f4d3a",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/apple-touch-icon.png", "type": "image/png", "sizes": "180x180" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}

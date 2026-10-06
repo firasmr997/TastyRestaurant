@@ -1,0 +1,33 @@
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Backend
+backend/target/
+backend/uploads/
+backend/.mvn/wrapper/maven-wrapper.jar
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
+frontend/.vite/
+
+# Local uploads (development)
+uploads/
+
+# Local design and agent tooling (not part of the project)
+.claude/
+.impeccable/
+
+# Brand kit build dependencies and preview
+brand/node_modules/

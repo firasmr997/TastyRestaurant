@@ -1,0 +1,9 @@
+# Store text files with LF line endings in the repository.
+* text=auto
+
+# Scripts that run inside Linux containers must keep LF endings, even in Windows checkouts.
+mvnw text eol=lf
+*.sh text eol=lf
+
+# Windows scripts keep CRLF.
+*.cmd text eol=crlf
