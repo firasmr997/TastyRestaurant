@@ -60,5 +60,9 @@ export const routes: RouteObject[] = [
 ]
 
 export function createRouter() {
-  return createBrowserRouter(routes)
+  // Honour the Vite base path so the app can also be served from a sub-folder
+  // (e.g. the /demos/tasty/ showcase build). Normal builds use '/', which trims
+  // to '' and leaves routing unchanged.
+  const basename = import.meta.env.BASE_URL?.replace(/\/+$/, '')
+  return createBrowserRouter(routes, basename ? { basename } : undefined)
 }
